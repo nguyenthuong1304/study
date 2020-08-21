@@ -1,2 +1,0 @@
-# monthly_report_thuongnn
-monthly_report_thuongnn
