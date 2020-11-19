@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7abfcf1-383b-437a-8187-a38f89ceb008" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/monthly_report_thuongnn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/monthly_report_thuongnn.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/BE/composer.json</pharConfigPath>
     <execution />
   </component>
   <component name="Git.Settings">
@@ -23,7 +25,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Brandit-System-EC-Cube" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/082020" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -36,6 +46,10 @@
       <workItem from="1597633613681" duration="491000" />
       <workItem from="1597634200241" duration="235000" />
       <workItem from="1597634543443" duration="87000" />
+      <workItem from="1600312241141" duration="2339000" />
+      <workItem from="1600388901370" duration="6121000" />
+      <workItem from="1605779707055" duration="1922000" />
+      <workItem from="1605781921522" duration="194000" />
     </task>
     <servers />
   </component>
@@ -43,9 +57,14 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2685" y="297" key="FileChooserDialogImpl" timestamp="1597634628531">
+    <state x="2685" y="297" key="FileChooserDialogImpl" timestamp="1605781846184">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2685" y="297" key="FileChooserDialogImpl/1920.0.1920.1080/41.24.1879.1056@1920.0.1920.1080" timestamp="1597634628531" />
+    <state x="2685" y="297" key="FileChooserDialogImpl/1920.0.1920.1080/41.24.1879.1056@1920.0.1920.1080" timestamp="1600395813472" />
+    <state x="2685" y="297" key="FileChooserDialogImpl/41.24.1879.1056/1920.0.1920.1080@1920.0.1920.1080" timestamp="1605781846184" />
+    <state x="2393" y="174" key="SettingsEditor" timestamp="1605781994991">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2393" y="174" key="SettingsEditor/41.24.1879.1056/1920.0.1920.1080@1920.0.1920.1080" timestamp="1605781994991" />
   </component>
 </project>
